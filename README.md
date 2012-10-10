@@ -8,12 +8,8 @@ My personal themes for Coda 2
 * Proclaim - Trendy Hacker2
 
 ##Usage
+There are three ways of installing these themes:
+
 * Doubble click on the .sss files
-
-or
-
-* "Coda / Preferences / Colors / Style Sheet / Import..."
-
-or
-
+* "Coda / Preferences / Colors / Style Sheet / Import…"
 * ~/Library/Application Support/Coda 2/Styles/
