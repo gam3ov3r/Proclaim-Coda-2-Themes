@@ -9,7 +9,11 @@ My personal themes for Coda 2
 
 ##Usage
 * Doubble click on the .sss files
+
 or
+
 * "Coda / Preferences / Colors / Style Sheet / Import..."
+
 or
+
 * ~/Library/Application Support/Coda 2/Styles/
