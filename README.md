@@ -1,5 +1,5 @@
-#Proclaim-Coda-2-Themes
-My personal themes for Coda 2
+#Proclaim Coda 2 Themes
+My personal themes for [Coda 2](http://www.panic.com/coda/)
 
 ##Version 0.1 
 (themes included)
